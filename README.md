@@ -5,6 +5,9 @@ In this project, I have developed an instance segmentation and counting system u
 
 # Features
 Instance Segmentation: Utilizing the YOLOv8 segmentation model to accurately segment instances of people in each frame.
+
 Object Tracking: Tracking individual instances across frames using unique identifiers.
+
 Counting Mechanism: Implementing a polygonal region within the video frame to count the number of people entering the specified area.
+
 Visualization: Drawing segmentation masks and bounding boxes on detected instances for visual representation.
